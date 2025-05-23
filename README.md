@@ -75,6 +75,7 @@ The data is displayed on a local **OLED screen** and also transmitted to the **B
 ## 📷 Preview
 
 > Add circuit diagrams, breadboard layout, and screenshots of the Blynk app interface here.
+![IOT](https://github.com/user-attachments/assets/da840463-9e33-4d04-8a5f-0ef9e375ec2e)
 
 ---
 
