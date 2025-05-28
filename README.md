@@ -76,8 +76,8 @@ The data is displayed on a local **OLED screen** and also transmitted to the **B
 
 > circuit diagram
 ![IOT](https://github.com/user-attachments/assets/da840463-9e33-4d04-8a5f-0ef9e375ec2e)
-![IMG-20250521-WA0004](https://github.com/user-attachments/assets/f50eca54-9150-47eb-a65f-38b695b80631)
-![Screenshot_2025-05-21-19-20-23-08_12ffc8cefb1625d72bea53ca6feebda3](https://github.com/user-attachments/assets/19b6bad3-b120-478c-a754-b7c5f86c2803)
+![ou](https://github.com/user-attachments/assets/f0dcc02f-367b-42ce-bbab-b97587fae879)
+
 
 
 
